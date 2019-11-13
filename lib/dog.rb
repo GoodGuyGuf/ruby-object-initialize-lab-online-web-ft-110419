@@ -10,6 +10,8 @@ end
 
 #originally had this thing which was unneccessary
 #for the test:
+
+
 #  def name=(name)
     #@name = name
   #end
